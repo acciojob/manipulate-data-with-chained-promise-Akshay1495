@@ -1,5 +1,4 @@
 //your JS code here. If required.
-//your JS code here. If required.
 const outputContainer = document.getElementById('output');
 
 let arr = [1,2,3,4]; 

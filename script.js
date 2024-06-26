@@ -1,5 +1,4 @@
 //your JS code here. If required.
-//your JS code here. If required.
 let array = [1,2,3,4];
 let output = document.getElementById('output');
 let promise1 = new Promise ((res) => {
